@@ -1,6 +1,8 @@
 # DSA_Dictionary 
 
-This project was completed for a Data Structures & Algorithms course whilst at university and is written in C++. I hope to look back in a few years on these projects to see how much I have progressed.
+This project is written in C++ and was completed for a Data Structures & Algorithms course whilst at university.
+
+I have uploaded this project here so that I may look back in a few years and see my code when I first learnt C++.
 
 ## Dictionary Generator
 
