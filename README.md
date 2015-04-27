@@ -31,7 +31,7 @@ separating each word with a newline.
 You can assume that the maximum number of unique words will be 500 with a maximum
 length of 15 characters.
 
-You must use the ‘C’ FILE functions <stdio.h> for all file IO and STL <string> handling
+You must use the ‘C’ FILE functions ```<stdio.h>``` for all file ```IO``` and ```STL <string>``` handling.
 
 ### Program Notes:
 
@@ -83,8 +83,8 @@ As in the previous section you can assume that there will be a maximum
 number of 500 words in the dictionary with a maximum length of 15 characters. Word
 size in the input stream to be checked is indeterminate (i.e. may be >15 characters).
 
-You must use the “C++” stream functions for all IO and clib <string.h> functions but not
-STL string or STL <unordered_map> or <unordered_set>
+You must use the “C++” stream functions for all ```IO``` and ```clib <string.h>``` functions but not
+```STL string``` or ```STL <unordered_map>``` or ```<unordered_set>```.
 
 ### Program Notes:
 
